@@ -1,4 +1,4 @@
-# CAN-Hub
+# CAN Bus Hub
 
 CAN node
 ![CAN-Knoten](./can-knoten-gr.png)
