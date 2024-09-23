@@ -10,5 +10,5 @@ CAN-ISO-Repeater
 CAN-ISO-Repeater
 ![CAN-Hub](./iso-repeater-kl3.png "CAN-ISO-repeater")
 
-CAN-Hub ISO-Repeater
+CAN-Hub
 ![CAN-Hub](./can-hub8-kl.png "CAN Hub")
