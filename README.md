@@ -14,6 +14,6 @@ CAN-ISO-Repeater
 
 # 4-fach CAN-HUB
 
-CAN-Hub mit 4 Anschüssen
+CAN-Hub with 4 connections
 
 ![CAN-Hub](./can-hub8-kl.png "CAN Hub")
